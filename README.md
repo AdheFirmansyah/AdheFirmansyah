@@ -3,11 +3,11 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/adhe-firmansyah-7b8994244/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL" align="center">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.kaggle.com/adhefirmansyah" align="center">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
   <a href="your-twitter-URL" align="center">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -54,12 +54,15 @@
 ---
 
 ### :fire: My Stats :
+<div align = "center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdheFirmansyah&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdheFirmansyah)](https://github.com/AdheFirmansyah/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdheFirmansyah&layout=compact&theme=vision-friendly-dark)](https://github.com/AdheFirmansyah/github-readme-stats)
 
+</div>
 ---
 
 ### :writing_hand: Blog Posts :
